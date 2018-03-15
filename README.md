@@ -1,3 +1,3 @@
 # chatroom-demo
-npm install -d
+npm install -D
 node app.js
